@@ -21,4 +21,4 @@
 | AutoClick     | 自动点击      |
 
 ## 仓库状态
-![Alt](https://repobeats.axiom.co/api/embed/d6e5bd8c61449d00f63661eceef784ddf014b019.svg "Repobeats analytics image")
+![Alt](https://repobeats.axiom.co/api/embed/5161c04a38dab9ad150d4c142977ebaa5316290a.svg "Repobeats analytics image")
